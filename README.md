@@ -1,4 +1,5 @@
 # SpecGeoJSON
 
 - edit `config.json`
-- run `nodejs ./clean.js`
+- `npm install`
+- `nodejs ./clean.js`
